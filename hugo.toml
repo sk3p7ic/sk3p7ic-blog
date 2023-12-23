@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'localhost:1313'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Sk3p7ic's Blog"
+theme = 'hugo-texify2'
+
+[params]
+    title = "Sk3p7ic's Blog"
+    customCSS = ['css/darken.css']
