@@ -100,4 +100,12 @@ and I was now all set.
 
 ## Deployment
 
-The site is not yet deployed. I will update once it is.
+Deployment was made to GitHub Pages and, thus far, has seemed to be simple and
+intuitive, being achieved by changing the `baseURL` to the one that would be
+assigned by GitHub Pages, and needing to make a new GitHub Actions Workflow,
+the code for which I found
+[here](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
+
+If anything changes in the future, I will attempt to remember to update this
+post, but in the meantime thanks for reading and check out
+[my website](https://joshuaibrom.com) if you'd like to learn more about me.
