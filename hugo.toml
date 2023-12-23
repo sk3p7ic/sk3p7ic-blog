@@ -1,8 +1,27 @@
 baseURL = 'localhost:1313'
 languageCode = 'en-us'
-title = "Sk3p7ic's Blog"
 theme = 'hugo-texify2'
+title = "Sk3p7ic's Blog"
+description = "A blog about the research, projects, and various musings of me, sk3p7ic."
+
+[Author]
+    name = "Joshua Ibrom (sk3p7ic)"
 
 [params]
     title = "Sk3p7ic's Blog"
+    description = "A blog about the research, projects, and various musings of me, sk3p7ic."
+    keywords = ["sk3p7ic", "blog", "research", "projects"]
+    footnote = """ 
+    Follow me on <a class=link href=https://github.com/sk3p7ic target=_blank rel=noopener>GitHub</a>,
+    <a class=link href=https://www.linkedin.com/in/Joshua-Ibrom/ target=_blank rel=noopener>LinkedIn</a> or
+    <a class=link href=/index.xml>RSS</a> |
+    <a class=link href=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en target=_blank rel=noopener>CC BY-NC-SA 4.0</a>
+    """
     customCSS = ['css/darken.css']
+    math = true
+
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.highlight]
+style = "tango-dark"
