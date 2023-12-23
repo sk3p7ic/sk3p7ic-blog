@@ -23,5 +23,7 @@ description = "A blog about the research, projects, and various musings of me, s
 
 [markup]
 defaultMarkdownHandler = "goldmark"
+[markup.goldmark.renderer]
+unsafe = true
 [markup.highlight]
 style = "tango-dark"

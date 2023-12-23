@@ -93,6 +93,8 @@ body, #wrapper {
     color: #fef3c7!important;
 }
 ```
+It is of note that the colors were selected from 
+[TailwindCSS](https://tailwindcss.com/docs/customizing-colors).
 All that was left was to add this file as `customCSS` in my `hugo.toml` file,
 and I was now all set.
 
