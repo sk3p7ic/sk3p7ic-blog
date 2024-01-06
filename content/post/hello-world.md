@@ -21,7 +21,7 @@ guide for the [Binario](https://github.com/Vimux/Binario) theme that I was
 using at the time.
 
 Being the ambitious developer that I am, I opted to create my own platform
-instead of spending time to preperly debug the issues I was having with Hugo.
+instead of spending time to properly debug the issues I was having with Hugo.
 After all, I'd figured that creating my own platform would be something I could
 be more proud of while gathering experience working with 
 [SvelteKit](https://kit.svelte.dev/). While working on this project,
@@ -54,7 +54,7 @@ future.
 
 In the end, I chose [TeXify2](https://texify2.io/) as my theme, adoring its
 simplicity and resemblance to \\(\LaTeX\\) documents (which is how I do my
-academic notes, assignments, and presentiations--something I may cover some day
+academic notes, assignments, and presentations--something I may cover some day
 in another post). Additionally, altering the styles of this theme appeared to
 be easy, and I therefore set off to start working on my new blog.
 
@@ -73,7 +73,7 @@ not that hard to do.
 
 I also started working on overriding the theme. I wanted a dark theme, and thus
 I looked into which elements and classes would need to have their styles
-overridden in css, coming up with this file under `static/css/darken.css`:
+overridden in CSS, coming up with this file under `static/css/darken.css`:
 ```css
 body, #wrapper {
     background-color: #27272a;

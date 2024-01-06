@@ -49,7 +49,7 @@ anxious to do so.
 After a long summer working with the looming threat of working 6-7 days a week,
 I'd decided to return to college, finding myself with some renewed motivation
 to do well. Things, however, did not go as planned, with me getting COVID at
-the start of the semester, leaving me to miss important classes. Oncemore, I
+the start of the semester, leaving me to miss important classes. Once more, I
 started slipping and was afraid to reach out. As such, I failed.
 
 This time, however, was different. That fall semester I was already on
@@ -118,7 +118,7 @@ officer, I:
     maintain the hackathon's website. I mainly assisted with helping others
     understand and get up and running on the codebase (which was forked from
     [gh:acmutd/hackportal](https://github.com/acmutd/hackportal) and is a
-    template Next.js application featuring Firebase / Firestore intergration
+    template Next.js application featuring Firebase / Firestore integration
     for storing user and event data) in addition to creating an endpoint and
     admin page to facilitate the easier view of user check-in data to various
     panels and events.
@@ -130,7 +130,7 @@ officer, I:
     roughly 15-20 people.
   - Triaged and fixed an issue with the website during the event in which, due
     to the poor implementation of calls to our Firebase from the forked code
-    that we did not have time to fix, I indentified that we had exceeded the
+    that we did not have time to fix, I identified that we had exceeded the
     free plan and was able to resolve the issue through adding a payment
     source. I notated the incident and recommended that for the next time we
     host a hackathon that the website be one which is developed by us and uses
@@ -140,7 +140,7 @@ officer, I:
   content and this time boasting an attendance of nearly 30 students. A survey
   was performed after the workshop for which I was rated 4.7.
 - Assisted with planning and coordinating travel to external events, such as
-  HackUTD at UT Dallas, by assiting with the procurement of lodging and other
+  HackUTD at UT Dallas, by assisting with the procurement of lodging and other
   necessities.
 
 While I did greatly enjoy my time acting as an officer, I ultimately did not
@@ -155,8 +155,8 @@ currently.
 I am now nearing my final semester of my undergraduate studies with only a
 three courses left to take. I am also working as a student worker for my
 university's IT department as a web developer, which I am enjoying for the
-most part. There is, of course, the feeling of imposter syndrome that I am
-stuggling with, but I am trying to work though it.
+most part. There is, of course, the feeling of impostor syndrome that I am
+struggling with, but I am trying to work though it.
 
 While I could state that this upcoming May will be the end of my college
 journey, I'd prefer it not be. Rather, I have been considering applying for
